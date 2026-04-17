@@ -42,6 +42,8 @@
  - 2) https://www.figma.com/design/PXVM8tcPlooyQZpUxd759r/LUXEDRIVE--Car-Rental-Landing-Page--Community-?t=mmtTCjernmk83aIQ-0
  - 3) https://www.figma.com/design/bYudfJ61sUut2jUCoMUcd2/Car-rental--Community-?node-id=0-1&t=HHvIF9nRTlkBudZP-0	
  - 4) https://www.figma.com/design/sqCw3BhDr6vco8byTdnXSP/Easy-Car-Rental-Project-Mockup--Community-?node-id=0-1&p=f&t=MA2yiSsZWIYts4aB-0
+
+ Вибір дизайну проекту: 4 пункт! 
    
 5. Як сторінки будуть пов'язані між собою? (Карта сайту)
   * Головна сторінка
